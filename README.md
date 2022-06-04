@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariush-tasdighi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dariush-tasdighi&repo=github-readme-stats)](https://github.com/dariush-tasdighi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariush-tasdighi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dariush-tasdighi&repo=Learning-ASP.NET-Core-Razor-Pages-Template-02)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dariush-tasdighi&repo=CreatePureBlockChainWithCSharp)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dariush-tasdighi&repo=Learning-ASP.NET-Core-Razor-Pages-Bootstrap-5)](https://github.com/anuraghazra/github-readme-stats)

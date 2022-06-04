@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Custom badge](https://img.shields.io/badge/Job%20Title-Consultant%2C%20Teacher%20and%20Web%20Developer-lightgrey)
+
 <!--
 **Dariush-Tasdighi/Dariush-Tasdighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://stackexchange.com/users/2660670"><img src="https://stackexchange.com/users/flair/2660670.png" width="208" height="58" alt="profile for Dariush Tasdighi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dariush Tasdighi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariush-tasdighi&count_private=true)
